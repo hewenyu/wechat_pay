@@ -1,13 +1,3 @@
-# wechat_pay
-用于微信支付的
-
-go get -u github.com/hewenyu/wechat_pay@v0.0.1
-
-## 使用范例
-
-注意配置payconfig
-
-```go
 package main
 
 import (
@@ -29,4 +19,3 @@ func main() {
 
 	fmt.Println(res)
 }
-```
