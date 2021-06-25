@@ -1,4 +1,4 @@
-package payclientgo
+package payclient
 
 import (
 	"context"
